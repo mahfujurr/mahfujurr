@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/mahfujur797" target="blank"><img src="https://img.shields.io/twitter/follow/mahfujur797?logo=twitter&style=for-the-badge" alt="mahfujur797" /></a> </p>
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **NodeJS**
 
 - 👨‍💻 All of my projects are available at [https://mahfujur.netlify.app/](https://mahfujur.netlify.app/)
 
